@@ -1,0 +1,11 @@
+name: covid19-impact-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - plotly
+  - geemap
+  - earthengine-api
+  - scipy

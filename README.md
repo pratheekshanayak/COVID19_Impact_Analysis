@@ -11,3 +11,7 @@ Impact of COVID-19 restriction on air pollution using satellite based remote sen
 `results/` contains interactive maps and figures (html format) obtained through the analysis.
 
 `Report.pdf` is a detailed analysis report describing the datasets, methodology and results.
+
+### Environment
+
+Use `conda` or `mamba` to install the environment specified in `environment.yml`
